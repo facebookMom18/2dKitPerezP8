@@ -50,4 +50,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/MyLevel.unity
     guid: aa923d6829baa434dabe4b1829ea3668
+  - enabled: 1
+    path: 
+    guid: 7db5c913c7d072f42821a8d867ba0864
+  - enabled: 1
+    path: 
+    guid: 53f68f4cda5f6764d8de36a4b4ad489d
+  - enabled: 1
+    path: Assets/NewScene.unity
+    guid: cccbe17436df4c44e93cff77f4a76024
   m_configObjects: {}
